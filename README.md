@@ -12,7 +12,7 @@
 ## 👨‍💻 Sobre Mim
 
 <p align="left">
-  <img src="https://i.pinimg.com/736x/5a/d4/0b/5ad40ba826edea2664470c5b4069f3d1.jpg" alt="Sua Foto ou Gif" width="200" align="right"/>
+  <img src="https://i.pinimg.com/1200x/1b/46/c4/1b46c4e1abe7a7c68a42c1782119c61a.jpg" alt="Sua Foto ou Gif" width="200" align="right" style="border: 5px solid #000000;"/>
   
   Sou um estudando aprendendo a programar coisas diversas, com foco particular em front end, html, css etc. Porem estou disposto a tentar de tudo! (e amo minha namorada!)
   
