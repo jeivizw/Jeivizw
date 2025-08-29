@@ -1,7 +1,7 @@
 ## Bem Vindo ao meu perfil!
 
 <p align="center">
-  <img src="" alt="Banner do Perfil" width="800"/>
+  <img src="https://i.pinimg.com/1200x/00/e6/35/00e6359f536dc817b04b73ba01ebcf2a.jpg" alt="Banner do Perfil" width="800"/>
 </p>
 
 <h1 align="center">Olá, eu sou João! 👋</h1>
@@ -12,14 +12,18 @@
 ## 👨‍💻 Sobre Mim
 
 <p align="left">
-  <img src="" alt="Sua Foto ou Gif" width="200" align="right"/>
+  <img src="https://i.pinimg.com/736x/93/30/35/93303509ffeb644db11d8525662e4cb4.jpg" alt="Sua Foto ou Gif" width="200" align="right"/>
   
   Sou um estudando aprendendo a programar coisas diversas, com foco particular em front end, html, css etc. Porem estou disposto a tentar de tudo!
   
   - 🔭 Atualmente estou trabalhando em **[Curso ADS no Senai]**
+    
   - 🌱 Estou aprendendo **[Analise e Desenvolvimento de sistemas]**
+    
   - 👯 Procuro colaborar em **[Front end e Desing]**
+    
   - 💬 Pergunte-me sobre **[Historia, Jogos, Esportes, Filmes e series.]**
+    
   - 📫 Contato: **[joao.v.souza193@aluno.senai.br]**
 </p>
 
@@ -43,5 +47,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?jeivizw&label=Profile%20views&color=0e75b6&style=flat" alt="Contador de Visitas" />
+
 </p>
