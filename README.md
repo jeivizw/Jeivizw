@@ -14,7 +14,7 @@
 <p align="left">
   <img src="https://i.pinimg.com/736x/93/30/35/93303509ffeb644db11d8525662e4cb4.jpg" alt="Sua Foto ou Gif" width="200" align="right"/>
   
-  Sou um estudando aprendendo a programar coisas diversas, com foco particular em front end, html, css etc. Porem estou disposto a tentar de tudo!
+  Sou um estudando aprendendo a programar coisas diversas, com foco particular em front end, html, css etc. Porem estou disposto a tentar de tudo! (e amo minha namorada!)
   
   - 🔭 Atualmente estou trabalhando em **[Curso ADS no Senai]**
     
