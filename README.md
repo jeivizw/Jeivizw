@@ -47,6 +47,7 @@
 
 ---
 ---
+<img  src="/assets/download (6).jpg" alt="My gf and me" width="200" align="right" />
 <p align="center">
 
 </p>
