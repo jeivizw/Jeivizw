@@ -41,10 +41,10 @@
 <a href="https://instagram.com/_.jeivizw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.jeivizw_" height="30" width="40" /></a>
 
 </p>
-
+<img  src="/assets/download (6).jpg" alt="My gf and me" width="700" align="right" />
 <img  src="/assets/AMERICA.jpg" alt="My gf and me" width="300" align="left" />
 
-<img  src="/assets/download (6).jpg" alt="My gf and me" width="700" align="right" />
+
 ---
 ---
 
