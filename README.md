@@ -13,6 +13,7 @@
 
 <p align="left">
   <img  src="/assets/1.jpeg" alt="My gf and me" width="200" align="right" />
+
   
   Sou um estudando aprendendo a programar coisas diversas, com foco particular em front end, html, css etc. Porem estou disposto a tentar de tudo! <strong>(e amo minha namorada!)</strong>
   
@@ -26,9 +27,7 @@
     
   - 📫 Contato: **[joao.v.souza193@aluno.senai.br]**
 </p>
- <p align="right">
-  <strong>Eu e minha namorada!! 👆🏻</strong>
-  </p>
+
 ---
 
 
@@ -42,12 +41,13 @@
 <a href="https://instagram.com/_.jeivizw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.jeivizw_" height="30" width="40" /></a>
 
 </p>
+---
+---
+<img  src="/assets/AMERICA.jpg" alt="My gf and me" width="200" align="left" />
+<img  src="/assets/download (8).jpg"My gf and me" width="200" align="right" />
 
 ---
-
-
 ---
-
 <p align="center">
 
 </p>
