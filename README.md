@@ -42,12 +42,12 @@
 
 </p>
 
-<img  src="/assets/AMERICA.jpg" alt="My gf and me" width="200" align="left" />
+<img  src="/assets/AMERICA.jpg" alt="My gf and me" width="600" align="left" />
 
 
 ---
 ---
-<img  src="/assets/download (6).jpg" alt="My gf and me" width="200" align="right" />
+<img  src="/assets/download (6).jpg" alt="My gf and me" width="700" align="right" />
 <p align="center">
 
 </p>
