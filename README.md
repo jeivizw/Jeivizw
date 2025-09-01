@@ -1,7 +1,7 @@
 ## Bem Vindo ao meu perfil!
 
 <p align="center">
-  <img src="/assets/Ye.jpg" alt="Banner do Perfil" width="800"/>
+  <img src="/assets/Ye.jpg" alt="Banner do Perfil" width="900"/>
 </p>
 
 <h1 align="center">Olá, eu sou João! 👋</h1>
