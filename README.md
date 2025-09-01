@@ -25,6 +25,9 @@
   - 💬 Pergunte-me sobre **[Historia, Jogos, Esportes, Filmes e series.]**
     
   - 📫 Contato: **[joao.v.souza193@aluno.senai.br]**
+     <p align="right">
+  Eu e minha namorada!! 👆🏻
+  </p>
 </p>
 
 ---
