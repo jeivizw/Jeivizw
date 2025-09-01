@@ -43,7 +43,7 @@
 </p>
 
 <img  src="/assets/AMERICA.jpg" alt="My gf and me" width="200" align="left" />
-<img  src="/assets/download (8).jpg"My gf and me" width="200" align="right" />
+
 
 ---
 ---
