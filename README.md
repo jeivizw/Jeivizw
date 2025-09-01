@@ -13,9 +13,6 @@
 
 <p align="left">
   <img  src="/assets/1.jpeg" alt="My gf and me" width="200" align="right" />
- <p align="right">
-  Eu e minha namorada!! 👆🏻
-  </p>
   
   Sou um estudando aprendendo a programar coisas diversas, com foco particular em front end, html, css etc. Porem estou disposto a tentar de tudo! <strong>(e amo minha namorada!)</strong>
   
