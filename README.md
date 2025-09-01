@@ -41,8 +41,7 @@
 <a href="https://instagram.com/_.jeivizw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.jeivizw_" height="30" width="40" /></a>
 
 </p>
----
----
+
 <img  src="/assets/AMERICA.jpg" alt="My gf and me" width="200" align="left" />
 <img  src="/assets/download (8).jpg"My gf and me" width="200" align="right" />
 
