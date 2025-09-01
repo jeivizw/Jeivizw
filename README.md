@@ -12,7 +12,10 @@
 ## 👨‍💻 Sobre Mim
 
 <p align="left">
-  <img  src="https://i.pinimg.com/1200x/1b/46/c4/1b46c4e1abe7a7c68a42c1782119c61a.jpg" alt="Sua Foto ou Gif" width="200" align="right" />
+  <img  src="/assets/1.jpeg" alt="My gf and me" width="200" align="right" />
+    <p align="right">
+  Eu e minha namorada!! 👆🏻
+  </p>
   
   Sou um estudando aprendendo a programar coisas diversas, com foco particular em front end, html, css etc. Porem estou disposto a tentar de tudo! <strong>(e amo minha namorada!)</strong>
   
