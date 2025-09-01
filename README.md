@@ -22,6 +22,10 @@
   - 🌱 Estou aprendendo **[Analise e Desenvolvimento de sistemas]**
     
   - 👯 Procuro colaborar em **[Front end e Desing]**
+
+ <p align="right">
+  Eu e minha namorada!! 👆🏻
+  </p>
     
   - 💬 Pergunte-me sobre **[Historia, Jogos, Esportes, Filmes e series.]**
     
