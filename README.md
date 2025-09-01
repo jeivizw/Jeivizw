@@ -27,7 +27,7 @@
   - 📫 Contato: **[joao.v.souza193@aluno.senai.br]**
 </p>
  <p align="right">
-  Eu e minha namorada!! 👆🏻
+  <strong>Eu e minha namorada!! 👆🏻</strong>
   </p>
 ---
 
