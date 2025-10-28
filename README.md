@@ -34,7 +34,7 @@
 
 ---
 
-## 🌐 Minhas Redes!
+
 
 <p align="left">
 
