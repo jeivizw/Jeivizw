@@ -21,7 +21,7 @@
     
   - 🌱 Estou aprendendo **[Analise e Desenvolvimento de sistemas]**
     
-  - 👯 Procuro colaborar em **[Front end e Desing]**
+  - 👯 Procuro colaborar em **[Front end ]**
     
   - 💬 Pergunte-me sobre **[Historia, Jogos, Esportes, Filmes e series.]**
     
