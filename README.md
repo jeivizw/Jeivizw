@@ -15,13 +15,13 @@
   <img  src="/assets/1.jpeg" alt="My gf and me" width="300" align="right" />
 
   
-  Sou um estudando aprendendo a programar coisas diversas, com foco particular em front end, html, css etc. Porem estou disposto a tentar de tudo! <strong>(e amo minha namorada!)</strong>
+  Sou um estudante aprendendo a programar coisas diversas, com foco em majoritariamente em Front-end/Javascript e Analise de dados -Power Bi, Execel. Porem estou disposto a tentar de tudo! <strong>(e amo minha namorada!)</strong>
   
   - 🔭 Atualmente estou trabalhando em **[Curso ADS no Senai]**
     
-  - 🌱 Estou aprendendo **[Analise e Desenvolvimento de sistemas]**
+  - 🌱 Estou aprendendo **[Analise e Desenvolvimento de sistemas.]**
     
-  - 👯 Procuro colaborar em **[Front end ]**
+  - 👯 Procuro colaborar em **[Front end + Analise de Dados.]**
     
   - 💬 Pergunte-me sobre **[Historia, Jogos, Esportes, Filmes e series.]**
     
